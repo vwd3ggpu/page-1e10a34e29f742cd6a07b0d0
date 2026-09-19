@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "8466e9f0e2959e516a9c07bc",
+  "owner": "vwd3ggpu",
+  "repo": "page-1e10a34e29f742cd6a07b0d0",
+  "title": "胡桃云(Hutao)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "1e10a34e29f742cd6a07b0d0",
+      "a": "胡桃云(Hutao)",
+      "b": "Clash Mi服务商官网",
+      "entity": "胡桃云(Hutao)",
+      "brand": "胡桃云(Hutao)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "85a763f249a847a87dad11ce9e10aba7c69e37a1e2579e119eff1945f6a0ab5e",
+      "content": {
+        "primary_entity": "胡桃云(Hutao)",
+        "keyword1": "胡桃云(Hutao)",
+        "keyword2": "Clash Mi服务商官网",
+        "content": {
+          "AI_DESCRIPTION": "，胡桃云(Hutao)以订阅制提供海外加速线路，客户端覆盖 Clash Mi 等常用工具，用户可根据设备数量与流量需求从基础版、旗舰版、团队版中挑选合适方案。",
+          "AI_HERO_SUBTITLE": "胡桃云(Hutao) 海外加速订阅",
+          "AI_HERO_INTRO": "胡桃云(Hutao) 提供多档订阅套餐，搭配 Clash Mi 等客户端使用，满足手机、电脑与路由器等设备接入海外线路的需求。选择前可先确认设备数量与月流量消耗，再决定订阅周期。",
+          "AI_VISUAL_TITLE": "胡桃云订阅方案速览",
+          "AI_HIGHLIGHT_1": "基础版每月 15 元起",
+          "AI_HIGHLIGHT_2": "旗舰版 IPLC 专线加速",
+          "AI_HIGHLIGHT_3": "团队版支持 20 台设备",
+          "AI_FEATURES_INTRO": "从设备数量、月流量和订阅周期三个角度挑选胡桃云(Hutao)套餐。",
+          "AI_FEATURES_TITLE": "按需求匹配套餐",
+          "AI_FEATURE_TITLE_1": "设备数量",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版 5 台，团队版最多 20 台设备同时在线。",
+          "AI_FEATURE_TITLE_2": "月流量档位",
+          "AI_FEATURE_TEXT_2": "每月 100GB、300GB 或 1000GB 三档极速流量，按个人或团队用量选择。",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付价格更省，基础版年付 150 元、旗舰版 350 元、团队版 850 元。",
+          "AI_CLIENTS_TITLE": "多设备客户端",
+          "AI_CLIENTS_INTRO": "Clash Mi 可导入胡桃云(Hutao)订阅，在不同设备上按客户端文档完成配置。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "三档套餐在流量、设备数与线路质量上逐级提升，按实际用量挑选即可。",
+          "AI_GUIDE_TITLE": "订阅配置三步",
+          "AI_GUIDE_INTRO": "先明确设备与流量需求，再选套餐，最后按客户端文档导入订阅。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "根据在线设备数量和每月流量消耗，在基础版、旗舰版、团队版中选定对应套餐。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认所用设备运行 Clash Mi 等客户端，并核对系统版本满足客户端说明的要求。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "参照客户端文档，将胡桃云(Hutao)订阅地址导入 Clash Mi，完成节点更新与连接测试。",
+          "AI_CLOSING_TITLE": "选好套餐即刻连接",
+          "AI_CLOSING_TEXT": "按设备数量与流量挑选胡桃云(Hutao)套餐，参照客户端文档导入订阅即可开始使用。",
+          "AI_FAQ_ANSWER_1": "基础版每月100GB、支持3台设备；旗舰版每月300GB、支持5台设备；团队版每月1000GB、支持20台设备。按使用人数和流量选择即可。",
+          "AI_FAQ_ANSWER_2": "在支持订阅导入的客户端里粘贴服务方提供的订阅地址，或在客户端文档指导下手动配置。不同设备步骤有差异，以客户端说明为准。",
+          "AI_FAQ_ANSWER_3": "三档套餐都列出了最大同时在线设备数：基础版3台、旗舰版5台、团队版20台。超出时可关闭不用的设备，或升级到团队版。",
+          "AI_FAQ_ANSWER_4": "旗舰版和团队版包含流媒体原生解锁与高带宽节点，旗舰版还有IPLC专线游戏加速优化。基础版可解锁基础流媒体。",
+          "AI_FAQ_ANSWER_5": "月付价格分别为15元、35元和85元；按年付分别约150元、350元和850元。长期使用选择年付更划算。",
+          "AI_FAQ_INTRO": "套餐对比、设备限制、订阅导入与年付价格。",
+          "AI_FAQ_QUESTION_1": "基础版、旗舰版、团队版怎么选？",
+          "AI_FAQ_QUESTION_2": "胡桃云订阅如何导入客户端？",
+          "AI_FAQ_QUESTION_3": "同一时间可以在多少台设备上使用？",
+          "AI_FAQ_QUESTION_4": "流媒体和游戏加速有区别吗？",
+          "AI_FAQ_QUESTION_5": "月付和年付价格分别是多少？",
+          "AI_FAQ_TITLE": "订阅与套餐疑问"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "c4612f3a15a74496c8dbaba90a679530249297ea4f75e1c5188af565688454d2",
+    "sitemap.xml": "b8f2789d51481c6deca6b733dcde0d04fb597c16085a8a2aa3fd86aa45495e32",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "77bbe92b35f2a5800af78558a66507ad7fbe4e57e5792513d9eac749391160c5"
+}
